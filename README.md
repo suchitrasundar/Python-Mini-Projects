@@ -22,7 +22,7 @@ A python program using advanced Python functions and classes to correct embarras
 
 ## Movie website 
 A python program that applies Python classes to build a website to share images or trailers of your favourite movies.
-##### Link - https://github.com/suchitrasundar/Python-Projects/blob/master/media.py
+##### Link - https://github.com/suchitrasundar/Python-Mini-Projects/tree/master/movies
 
 ## Inheritance 
 ##### Link - https://github.com/suchitrasundar/Python-Projects/blob/master/inheritance.py
